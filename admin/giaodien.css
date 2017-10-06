@@ -1,0 +1,32 @@
+@charset "utf-8";
+#container{
+	margin: auto;
+	width: 990px;
+	
+}
+#tieude {
+width:960px;
+margin:auto;
+background-color:#0CF;
+color:#FFF;
+font-size:30px;
+}
+#menu a{
+	background-color:#9F0;
+	color:#000;
+	float:left;
+	display:block;
+	margin-right:10px;
+	width:120px;
+	padding:10px;
+	text-decoration:none;
+	text-align:center;
+	margin-left:100px
+	}
+#formadmin{
+	border: 1px #c1e2b3 double;
+	padding: 10px;
+	width: 500px;
+	margin-top: 200px;
+
+}

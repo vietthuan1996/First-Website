@@ -1,0 +1,43 @@
+/*::::::: PIROBOX V.1.0. :::::::::*/
+/*::::::::::::REGOLE GENERALI:::::::::::*/
+
+#spmoi{
+	margin-top:10px;
+	width:960px;
+	min-height:50px;
+	background-color:#FFF;
+	}
+.spmoi-hot{
+	border:3px solid #000;
+	width:216px;
+	float:left;
+	margin-left:15px;
+	}
+.spmoi-hinh img:hover{
+	opacity:0.5;
+	}
+.spmoi-tengia{
+	text-align:center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+.spmoi-tengia a{
+	text-decoration:none;
+	color:#2F5271;
+	}
+.spmoi-tengia a:hover{
+	color:#E96052;
+	}
+.spmoi-tengia span{
+	color:#D59E91;
+	}
+.btn-cart{
+	width:100px;
+	}
+}
+/*:::::::::::::: FINE MENU :::::::::::*/
+
+/*:::::::FINE CSS::::::*/
+
+
+
+/*Default CSS for pan containers*/
